@@ -48,7 +48,13 @@ _by Fatima Abdelrazek_
 ## Workflow & Commands
 ####git status: The git status command displays the state of the working directory and the staging area.
 
+#### git add: PLZ EDIT THIS
+
+#### git commit: PLZ EDIT THIS
+
 ####git push: git push allows you to push commits that is done on your local repository to remmote repository. 
+
+
 
 
 ---
