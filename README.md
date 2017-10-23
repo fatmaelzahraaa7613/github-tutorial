@@ -55,7 +55,9 @@ _by Fatima Abdelrazek_
 ####git push: git push allows you to push commits that is done on your local repository to remmote repository. 
 
 
-
-
 ---
-## Rolling Back Changes
+## Rolling Back Changes https://docs.google.com/presentation/d/1yBhhaSNtHEC4Sqc-jMxeMMqPeNOT7zVuiOU_e5eWV_8/edit#slide=id.g25a990f774_1_10
+undo edit
+undo add
+undo commit
+undo push
