@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Fatima Abdelrazek>_
+_by Fatima Abdelrazek_
 
 ---
 ## Git vs. GitHub
@@ -17,39 +17,48 @@ _by <Fatima Abdelrazek>_
  
  * Create a Username, email and password that you will be able to remember. Then click on sign up for github.
  
- * read the terms and conditions for github.
+ * Read the terms and conditions for github.
  
- * choose the type of plan you want to have, either free or paid. (maybe try out the free one first then decide.)
+ * Choose the type of plan you want to have, either free or paid. (maybe try out the free one first then decide.)
  
- * fill in the github survey or skip it if you dont have time.
+ * Fill in the github survey or skip it if you dont have time.
  
  * WOOHOO YOU ARE DONE!!!!!!
  
  ##### Creating an SSH key
 
-1. login to github account that you just created
+1. Login to github account that you just created
 
-2. go to settings (top right icon)
+2. Go to settings (top right icon)
 
-3. click SSH setting, then click on "SSH and GPG keys".
+3. Click SSH setting, then click on "SSH and GPG keys".
 
 4. Then click on New SSH key. 
 
 ---
 ## Repository Setup
-#### Git init :The git init command creates a new Git repository. It can be used to convert an existing, project to a Git repository or initialize a new, empty repository
+#### Git init: The git init command creates a new Git repository. It can be used to convert an existing, project to a Git repository or initialize a new, empty repository
 
 #### Git add: git add helps you add your work to the staged file.
 
-#### Git commit is used to write yourself notes (helpful notes only).
+#### Git commit takes snapshot of your code and saved it as commits. It is used to write yourself notes/message (helpful notes only).
 
 
 ---
 ## Workflow & Commands
-####git status: The git status command displays the state of the working directory and the staging area.
+#### git status: The git status command displays the state of the working directory and the staging area.
 
-####git push: git push allows you to push commits that is done on your local repository to remmote repository. 
+#### git add: PLZ EDIT THIS
+
+#### git commit: PLZ EDIT THIS
+
+#### git push: git push allows you to push commits that is done on your local repository to remmote repository. 
 
 
 ---
 ## Rolling Back Changes
+https://docs.google.com/presentation/d/1yBhhaSNtHEC4Sqc-jMxeMMqPeNOT7zVuiOU_e5eWV_8/edit#slide=id.g25a990f774_1_10
+undo edit
+undo add
+undo commit
+undo push
